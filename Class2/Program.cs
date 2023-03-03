@@ -7,7 +7,7 @@
             //string,bool, int, float, list, dic,char
             var list = new List<string>() { "Ram","Sita"};
             var dic = new Dictionary<string, int>();
-            dic["age"] = 15;
+            dic["age"] = 20;
             //Console.Write("x:");
             //var x = Console.ReadLine();
             //Console.Write("y:");
