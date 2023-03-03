@@ -16,6 +16,7 @@
             var name3 = $"{dic["Husband"]} and {dic["Wife"]} are husband and wife";
             Console.WriteLine(name3);
             Console.WriteLine("Hello, everyone!");
+            Console.WriteLine("Hello, Class!");
 
         }
     }
